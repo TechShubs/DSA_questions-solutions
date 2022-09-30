@@ -156,8 +156,10 @@
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
     },
 
-
-
+{
+    "topic" : "Data Structur",
+        "question" : "How is data structure helpful?",
+        "answerLink" : "http://www.mygreatlearning.com/blog/data-structure-tutorial-for-beginners/?amp"
 
 
     
